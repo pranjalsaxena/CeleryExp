@@ -1,8 +1,8 @@
 # My Celery Experiments
 
 This repo consists basic Celery Experimentation Rig.
-I have also written a Medium article for this, please read it here.
-Follow these steps to setup this rig in your machine.
+<br>I have also written a Medium article for this, please read it [here](https://medium.com/@curious_human/step-by-step-guide-to-learn-celery-using-jupyter-notebook-and-redis-fd53c9c0f2f7).
+<br>Follow these steps to setup this rig in your machine.
 
 a. Run setup.ps1
 <br>b. Install Docker and Redis Image
